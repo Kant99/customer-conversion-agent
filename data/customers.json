@@ -1,0 +1,61 @@
+[
+  {"id":1,"name":"Rahul Sharma","phone":"+919812340001","income":82000,"account_balance":240000,"monthly_transactions":28,"loan_history":false,"credit_score":780},
+  {"id":2,"name":"Anjali Verma","phone":"+919812340002","income":46000,"account_balance":90000,"monthly_transactions":12,"loan_history":true,"credit_score":690},
+  {"id":3,"name":"Amit Patel","phone":"+919812340003","income":95000,"account_balance":300000,"monthly_transactions":35,"loan_history":false,"credit_score":800},
+  {"id":4,"name":"Neha Gupta","phone":"+919812340004","income":55000,"account_balance":120000,"monthly_transactions":18,"loan_history":true,"credit_score":710},
+  {"id":5,"name":"Rohit Singh","phone":"+919812340005","income":72000,"account_balance":180000,"monthly_transactions":25,"loan_history":false,"credit_score":760},
+
+  {"id":6,"name":"Pooja Mehta","phone":"+919812340006","income":40000,"account_balance":70000,"monthly_transactions":10,"loan_history":true,"credit_score":670},
+  {"id":7,"name":"Karan Malhotra","phone":"+919812340007","income":88000,"account_balance":260000,"monthly_transactions":30,"loan_history":false,"credit_score":790},
+  {"id":8,"name":"Sneha Iyer","phone":"+919812340008","income":62000,"account_balance":150000,"monthly_transactions":20,"loan_history":false,"credit_score":740},
+  {"id":9,"name":"Vikas Yadav","phone":"+919812340009","income":50000,"account_balance":110000,"monthly_transactions":15,"loan_history":true,"credit_score":705},
+  {"id":10,"name":"Priya Nair","phone":"+919812340010","income":97000,"account_balance":320000,"monthly_transactions":40,"loan_history":false,"credit_score":810},
+
+  {"id":11,"name":"Arjun Reddy","phone":"+919812340011","income":68000,"account_balance":160000,"monthly_transactions":22,"loan_history":false,"credit_score":750},
+  {"id":12,"name":"Meera Joshi","phone":"+919812340012","income":43000,"account_balance":85000,"monthly_transactions":14,"loan_history":true,"credit_score":680},
+  {"id":13,"name":"Suresh Kumar","phone":"+919812340013","income":78000,"account_balance":210000,"monthly_transactions":27,"loan_history":false,"credit_score":770},
+  {"id":14,"name":"Divya Sharma","phone":"+919812340014","income":59000,"account_balance":140000,"monthly_transactions":19,"loan_history":true,"credit_score":720},
+  {"id":15,"name":"Nitin Agarwal","phone":"+919812340015","income":91000,"account_balance":280000,"monthly_transactions":33,"loan_history":false,"credit_score":795},
+
+  {"id":16,"name":"Kavita Singh","phone":"+919812340016","income":47000,"account_balance":95000,"monthly_transactions":13,"loan_history":true,"credit_score":695},
+  {"id":17,"name":"Manish Tiwari","phone":"+919812340017","income":83000,"account_balance":230000,"monthly_transactions":29,"loan_history":false,"credit_score":780},
+  {"id":18,"name":"Ritika Kapoor","phone":"+919812340018","income":61000,"account_balance":145000,"monthly_transactions":21,"loan_history":false,"credit_score":735},
+  {"id":19,"name":"Deepak Chauhan","phone":"+919812340019","income":52000,"account_balance":115000,"monthly_transactions":16,"loan_history":true,"credit_score":700},
+  {"id":20,"name":"Shreya Bose","phone":"+919812340020","income":99000,"account_balance":350000,"monthly_transactions":42,"loan_history":false,"credit_score":820},
+
+  {"id":21,"name":"Ankit Jain","phone":"+919812340021","income":74000,"account_balance":190000,"monthly_transactions":24,"loan_history":false,"credit_score":760},
+  {"id":22,"name":"Swati Mishra","phone":"+919812340022","income":42000,"account_balance":80000,"monthly_transactions":11,"loan_history":true,"credit_score":675},
+  {"id":23,"name":"Harsh Vardhan","phone":"+919812340023","income":88000,"account_balance":270000,"monthly_transactions":31,"loan_history":false,"credit_score":785},
+  {"id":24,"name":"Tanya Arora","phone":"+919812340024","income":60000,"account_balance":135000,"monthly_transactions":18,"loan_history":true,"credit_score":715},
+  {"id":25,"name":"Aditya Khanna","phone":"+919812340025","income":92000,"account_balance":290000,"monthly_transactions":34,"loan_history":false,"credit_score":800},
+
+  {"id":26,"name":"Simran Kaur","phone":"+919812340026","income":45000,"account_balance":85000,"monthly_transactions":12,"loan_history":true,"credit_score":690},
+  {"id":27,"name":"Varun Mehta","phone":"+919812340027","income":86000,"account_balance":250000,"monthly_transactions":30,"loan_history":false,"credit_score":780},
+  {"id":28,"name":"Ishita Banerjee","phone":"+919812340028","income":63000,"account_balance":155000,"monthly_transactions":20,"loan_history":false,"credit_score":745},
+  {"id":29,"name":"Rakesh Yadav","phone":"+919812340029","income":51000,"account_balance":120000,"monthly_transactions":17,"loan_history":true,"credit_score":705},
+  {"id":30,"name":"Ayesha Khan","phone":"+919812340030","income":98000,"account_balance":330000,"monthly_transactions":38,"loan_history":false,"credit_score":815},
+
+  {"id":31,"name":"Sanjay Verma","phone":"+919812340031","income":76000,"account_balance":200000,"monthly_transactions":26,"loan_history":false,"credit_score":770},
+  {"id":32,"name":"Nisha Sharma","phone":"+919812340032","income":44000,"account_balance":82000,"monthly_transactions":13,"loan_history":true,"credit_score":685},
+  {"id":33,"name":"Gaurav Bansal","phone":"+919812340033","income":87000,"account_balance":260000,"monthly_transactions":31,"loan_history":false,"credit_score":790},
+  {"id":34,"name":"Pallavi Desai","phone":"+919812340034","income":58000,"account_balance":140000,"monthly_transactions":18,"loan_history":true,"credit_score":720},
+  {"id":35,"name":"Yash Shah","phone":"+919812340035","income":93000,"account_balance":300000,"monthly_transactions":36,"loan_history":false,"credit_score":805},
+
+  {"id":36,"name":"Kunal Arora","phone":"+919812340036","income":47000,"account_balance":90000,"monthly_transactions":14,"loan_history":true,"credit_score":695},
+  {"id":37,"name":"Bhavna Reddy","phone":"+919812340037","income":81000,"account_balance":220000,"monthly_transactions":28,"loan_history":false,"credit_score":775},
+  {"id":38,"name":"Ritu Jain","phone":"+919812340038","income":62000,"account_balance":150000,"monthly_transactions":21,"loan_history":false,"credit_score":740},
+  {"id":39,"name":"Ajay Singh","phone":"+919812340039","income":53000,"account_balance":125000,"monthly_transactions":16,"loan_history":true,"credit_score":710},
+  {"id":40,"name":"Zoya Ali","phone":"+919812340040","income":100000,"account_balance":360000,"monthly_transactions":45,"loan_history":false,"credit_score":825},
+
+  {"id":41,"name":"Vivek Gupta","phone":"+919812340041","income":78000,"account_balance":210000,"monthly_transactions":27,"loan_history":false,"credit_score":770},
+  {"id":42,"name":"Komal Sinha","phone":"+919812340042","income":43000,"account_balance":80000,"monthly_transactions":12,"loan_history":true,"credit_score":680},
+  {"id":43,"name":"Abhishek Roy","phone":"+919812340043","income":89000,"account_balance":270000,"monthly_transactions":32,"loan_history":false,"credit_score":790},
+  {"id":44,"name":"Neelam Kapoor","phone":"+919812340044","income":57000,"account_balance":140000,"monthly_transactions":19,"loan_history":true,"credit_score":720},
+  {"id":45,"name":"Tarun Malhotra","phone":"+919812340045","income":94000,"account_balance":310000,"monthly_transactions":37,"loan_history":false,"credit_score":805},
+
+  {"id":46,"name":"Alok Pandey","phone":"+919812340046","income":48000,"account_balance":95000,"monthly_transactions":13,"loan_history":true,"credit_score":700},
+  {"id":47,"name":"Riya Sen","phone":"+919812340047","income":85000,"account_balance":240000,"monthly_transactions":29,"loan_history":false,"credit_score":780},
+  {"id":48,"name":"Dev Mehta","phone":"+919812340048","income":64000,"account_balance":160000,"monthly_transactions":22,"loan_history":false,"credit_score":750},
+  {"id":49,"name":"Pankaj Yadav","phone":"+919812340049","income":52000,"account_balance":120000,"monthly_transactions":16,"loan_history":true,"credit_score":705},
+  {"id":50,"name":"Sara Khan","phone":"+919812340050","income":99000,"account_balance":340000,"monthly_transactions":41,"loan_history":false,"credit_score":820}
+]
