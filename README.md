@@ -174,7 +174,7 @@ customer-conversion-agent/
 ### 1. Clone Repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/Kant99/customer-conversion-agent
 cd customer-conversion-agent
 ```
 
