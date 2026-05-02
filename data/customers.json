@@ -1,5 +1,5 @@
 [
-  {"id":1,"name":"Rahul Sharma","phone":"+919812340001","income":82000,"account_balance":240000,"monthly_transactions":28,"loan_history":false,"credit_score":780},
+  {"id":1,"name":"Rahul Sharma","phone":"+919812340001","income":8200,"account_balance":240000,"monthly_transactions":28,"loan_history":false,"credit_score":780},
   {"id":2,"name":"Anjali Verma","phone":"+919812340002","income":46000,"account_balance":90000,"monthly_transactions":12,"loan_history":true,"credit_score":690},
   {"id":3,"name":"Amit Patel","phone":"+919812340003","income":95000,"account_balance":300000,"monthly_transactions":35,"loan_history":false,"credit_score":800},
   {"id":4,"name":"Neha Gupta","phone":"+919812340004","income":55000,"account_balance":120000,"monthly_transactions":18,"loan_history":true,"credit_score":710},

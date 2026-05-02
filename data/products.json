@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "name": "Standard Personal Loan",
+      "min_income": 40000,
+      "min_credit_score": 650,
+      "max_amount": 500000
+    },
+    {
+      "id": 2,
+      "name": "Premium Personal Loan",
+      "min_income": 80000,
+      "min_credit_score": 750,
+      "max_amount": 1500000
+    }
+  ]
