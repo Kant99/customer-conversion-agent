@@ -226,28 +226,6 @@ Message:
 Hi Rahul, based on your strong financial profile, we have a tailored personal loan offer that could suit your needs. Let us know a convenient time to discuss further!
 ```
 
----
-
-## 🚀 Future Enhancements
-
-* Add ML-based conversion prediction
-* Support multiple product types (credit cards, home loans)
-* Integrate with real database / CRM
-* Add UI dashboard (Streamlit / React)
-* Multi-channel communication (Email, SMS)
-
----
-
-## 🎥 Demo
-
-A demo video is included showing:
-
-* System walkthrough
-* End-to-end execution
-* Design explanation
-
----
-
 ## ✅ Conclusion
 
 This project demonstrates a **practical implementation of an Agentic AI system** combining:
