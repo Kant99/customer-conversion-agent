@@ -1,3 +1,4 @@
+import time
 class AgentOrchestrator:
     def __init__(
         self,
@@ -21,18 +22,22 @@ class AgentOrchestrator:
             return "Unsupported query"
 
         print("[Agent] Identified task: Personal Loan Targeting")
+        time.sleep(1)
 
         # Step 2: Fetch customer data
         print("[Agent] Fetching customer data...")
         customers = self.data_tool.fetch_customers()
+        time.sleep(1)
 
         # Step 3: Evaluate customers (scoring)
         print("[Agent] Evaluating customers (scoring)...")
         evaluated_customers = self.scoring_tool.evaluate_customers(customers)
+        time.sleep(1)
 
         # Step 4: Fetch product configurations
         print("[Agent] Fetching product configurations...")
         products = self.product_tool.fetch_products()
+        time.sleep(1)
 
         # Step 5: Generate recommendations
         print("[Agent] Generating product recommendations...")
@@ -40,6 +45,7 @@ class AgentOrchestrator:
             evaluated_customers,
             products
         )
+        time.sleep(1)
 
         # Step 6: Rank customers
         print("[Agent] Ranking customers...")
@@ -51,6 +57,7 @@ class AgentOrchestrator:
 
         # Step 7: Select top customers
         final_targets = ranked[:2]
+        time.sleep(2)
 
         print(f"[Agent] Selected {len(final_targets)} customers for outreach")
 
