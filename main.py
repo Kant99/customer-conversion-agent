@@ -6,7 +6,12 @@ from tools import (
     message_tool
 )
 from agent.orchestrator import AgentOrchestrator
+import os
+from dotenv import load_dotenv
 
+load_dotenv()
+
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 def main():
     print("🚀 Starting Customer Conversion Agent...\n")
